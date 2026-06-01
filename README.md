@@ -146,41 +146,6 @@ Become a Cloud & Cybersecurity Engineer specializing in:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-# 🚀 Featured Projects
-
-## 🔍 Rothschild-NIDS
-
-Real-time Network Intrusion Detection System built using Flask, Scikit-Learn, and SQLite.
-
-✨ Features:
-
-- Real-time traffic monitoring
-- Machine learning-based attack detection
-- Security dashboard
-- Automated alert generation
-
-🔗 Repository:
-https://github.com/venkatnikhil616/Rothschild-NIDS
-
----
-
-## 🎣 AI-Based Phishing URL Detection System
-
-Machine Learning-based phishing detection system developed using Python and Logistic Regression.
-
-✨ Features:
-
-- URL feature extraction
-- Threat prediction
-- Phishing detection
-- Security analysis
-
-🔗 Repository:
-https://github.com/venkatnikhil616/AI-Based-Phishing-URL-Detection-System
-
----
 
 # 📜 Certifications
 
@@ -190,7 +155,7 @@ https://github.com/venkatnikhil616/AI-Based-Phishing-URL-Detection-System
 
 🏆 Cyber Security Job Ready Certification — CERTIGO
 
-🏆 Complete Ethical Hacking Course
+🏆 Complete Ethical Hacking Course  — AAJHUB
 
 🏆 Python Basics for Data Science — IBM
 
@@ -227,12 +192,13 @@ https://github.com/venkatnikhil616/AI-Based-Phishing-URL-Detection-System
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=venkatnikhil616&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatnikhil616&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatnikhil616&show_icons=true&theme=github_dark&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatnikhil616&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatnikhil616&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=venkatnikhil616&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
