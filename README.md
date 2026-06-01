@@ -193,7 +193,8 @@ Become a Cloud & Cybersecurity Engineer specializing in:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatnikhil616&show_icons=true&theme=github_dark&hide_border=true"/>
-  
+</p>
+  <p align= "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatnikhil616&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
