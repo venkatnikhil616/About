@@ -1,94 +1,156 @@
 <h1 align="center">Hi 👋, I'm Venkat Nikhil</h1>
-<h3 align="center">Cybersecurity Enthusiast | Security Researcher | Developer | AI Explorer</h3>
-
-<p align="center">
+<h3 align="center">Aspiring Cloud & Cybersecurity Engineer | SOC Enthusiast | Security Researcher</h3><p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkatnikhil616&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+</p>---
 
----
+🚀 About Me
 
-## 🚀 About Me
+🔐 Passionate about Cybersecurity, Cloud Security, and Threat Detection
 
-🔐 Passionate about Cybersecurity & Threat Detection
-
-💻 Building Security Tools, Automation Projects & AI Solutions
+💻 Building Security Tools, Network Monitoring Solutions, and Automation Projects
 
 🌱 Currently Learning:
+
 - SOC Operations
-- Threat Hunting
 - SIEM Engineering
+- Threat Hunting
 - Cloud Security
-- Advanced Python
+- Linux Administration
+- Security Automation
 
 🎯 Career Goal:
-Become a Security Engineer specializing in Detection Engineering, Incident Response, and Security Automation.
+Become a Cloud & Cybersecurity Engineer specializing in Security Monitoring, Detection Engineering, Incident Response, and DevSecOps.
 
 ⚡ Fun Fact:
-> "I don't search for bugs... bugs search for me."
+
+«"I don't find bugs... because I am the bug 🐞"»
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/venkat-nikhil-293216367">
+<a href="https://www.linkedin.com/in/venkat-nikhil-vallamsetty-293216367">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:venkatnikhil616@gmail.com">
+</a><a href="mailto:venkatnikhil616@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/venkatnikhil616">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>---
 
-<a href="https://instagram.com/venkatnikhil616">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+🛠️ Tech Arsenal
+
+👨‍💻 Programming & Scripting
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Bash" (https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+🌐 Web & Database
+
+"HTML5" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+🔐 Cybersecurity & Networking
+
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"Kali Linux" (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+"Wireshark" (https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+"Nmap" (https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+"Splunk" (https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+"Microsoft Sentinel" (https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+☁️ Cloud & DevOps
+
+"Azure" (https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tech Arsenal
+🚀 Featured Projects
 
-### 👨‍💻 Languages
+🔍 Rothschild-NIDS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Real-time Network Intrusion Detection System built with Flask, Scikit-learn, and SQLite for malicious traffic detection and alerting.
 
-### 🌐 Web Development
+🎣 AI-Based Phishing URL Detection System
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Machine Learning powered phishing URL detection tool using Python and Logistic Regression.
 
-### 🔐 Cybersecurity
+🛡️ Security Monitoring & Threat Detection Labs
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-
-### ☁️ Learning
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FF6F00?style=for-the-badge)
+Hands-on projects involving log analysis, network monitoring, vulnerability assessment, and threat detection techniques.
 
 ---
 
-## 🚀 Featured Projects
+🏅 Certifications
 
-### 🛡️ Aegis SIEM Platform
-Real-time Security Information & Event Management platform for log monitoring, threat detection and incident analysis.
+🏆 Cryptography and Network Security (Elite) — NPTEL
 
-### 🔍 Rothschild NIDS
-Network Intrusion Detection System designed for monitoring suspicious traffic and detecting attacks.
+🏆 Introduction to Critical Infrastructure Protection — OPSWAT
 
-### 📊 SysPulse Terminal IDS
-Lightweight CLI-based Intrusion Detection System providing real-time monitoring and alerts.
+🏆 Cyber Security Job Ready Certification — CERTIGO
 
-### 🎣 Phishing URL Detector
-Machine Learning based phishing URL detection tool that helps identify malicious websites.
+🏆 Complete Ethical Hacking Course
+
+🏆 Python Basics for Data Science — IBM
+
+---
+
+🏆 Achievements
+
+🥇 1st Prize — ATOS 2025 College Hackathon (Website Development)
+
+🥇 1st Prize — PRAGYAN 2K26 Hackathon (Sudoku Solver)
+
+🎤 Active Member — Toastmasters International Club
+
+---
+
+📈 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=venkatnikhil616&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatnikhil616&layout=compact&theme=tokyonight"/>
+</p><p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatnikhil616&theme=tokyonight"/>
+</p>---
+
+🎯 Current Focus
+
+✔ Linux Administration
+
+✔ SOC Operations
+
+✔ SIEM & Security Monitoring
+
+✔ Threat Detection & Incident Response
+
+✔ Cloud Security
+
+✔ Security Automation
+
+---
+
+🎯 2026 Goals
+
+- Secure a Cloud/Cybersecurity Engineer role
+- Build advanced SOC & SIEM projects
+- Contribute to open-source security tools
+- Earn industry-recognized cybersecurity certifications
+- Master Detection Engineering & Threat Hunting
+
+---
+
+<h3 align="center">
+🚀 Securing Systems, Automating Defenses, and Continuously Learning
+</hMachine Learning based phishing URL detection tool that helps identify malicious websites.
 
 ### 🤖 Automated Support Workflow
 AI-powered customer support automation system using NLP for intelligent response handling.
